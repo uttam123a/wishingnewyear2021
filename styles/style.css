@@ -35,6 +35,8 @@ marquee {
 }
 p {
     color: white;
-    opacity: 60%;
-   
+    opacity: 100%;
+    
+   font-family: 'Redressed', cursive;
+    background-color: black;
     }

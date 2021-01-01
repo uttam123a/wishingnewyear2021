@@ -33,3 +33,8 @@ marquee {
     text-align: center;
 
 }
+p {
+    color: white;
+    opacity: 60%;
+   
+    }
